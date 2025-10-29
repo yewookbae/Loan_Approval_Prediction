@@ -1,2 +1,2 @@
-# Fuel-Efficiency-Predictor-TensorFlow-
-Using tensorflow and Machine learning model to predict fuel efficiency
+# Loan Approval Prediction
+CECS 456 (Machine Learning) Final Project
